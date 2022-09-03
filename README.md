@@ -5,4 +5,6 @@ how to test the code:
 
 execute the file on your terminal with this format
 
-> node [namefile].js
+```
+node [namefile].js
+````
